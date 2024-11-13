@@ -1,0 +1,11 @@
+citHeader("To cite CIA in publications use:")
+
+bibentry(
+  key = "CIA",
+  bibtype  = "Manual",
+  doi = "",
+  url = "https://github.com/SpaceOdyssey/cia",
+  author = c(person("Mathew", "Varidel")),
+  title = "CIA: The Causal Inference Assistant",
+  year = "2024"
+)
